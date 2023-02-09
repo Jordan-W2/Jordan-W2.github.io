@@ -2,11 +2,18 @@
 <html lang="en">
     <head>
         <style>
-
+            <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+            #MyName {
+                background-color:lightblue,
+                font-family: 'Roboto', sans-serif;
+                
+            }
         </style>
     </head>
     <body>
-        <h1>Jordan White</h1>
+        <h1 id="MyName" text-align:center>Jordan White</h1>
 <aside> <i>Detail-oriented and dedicated Deputy Register of Deeds with over 6
 years of experience maintaining accuracy of physical and digital public
 records, heavy data entry, and collaborative teamwork to create
